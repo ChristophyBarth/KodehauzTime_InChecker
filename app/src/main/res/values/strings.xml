@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kodehauz Time-In Checker</string>
+    <string name="name">Name:</string>
+    <string name="department">Department:</string>
+    <string name="gender">Gender:</string>
+    <string name="welcome">Welcome</string>
+</resources>
